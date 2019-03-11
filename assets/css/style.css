@@ -1,0 +1,38 @@
+
+h1 {
+    font-family: fantasy;
+}
+
+.ratings {
+    color: rgb(0, 0, 0);
+    font-family: avenir;
+    font-size: 18px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+}
+
+.btn-primary {
+    margin-left: 10px;
+    background: white;
+    color: rgb(34, 34, 34);
+}
+
+
+.form-control {
+    width: 30%;
+}
+
+#add {
+    font-size: 20px;
+    color:black;
+}
+body{
+    background-color: grey;
+}
+#add-athlete{
+    background-color: darkblue;
+    color: white;
+}
